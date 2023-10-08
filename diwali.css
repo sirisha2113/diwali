@@ -1,0 +1,15 @@
+.top{
+background-image:url('/home/rgukt/Downloads/diwali.jpeg');
+background-size:cover;
+padding:40px;
+height:50vh;
+} 
+
+.card1{
+background-color:white;
+height:200px;
+margin:15px;
+padding:40px;
+text-align:center;
+}
+
